@@ -28,8 +28,8 @@ Execute the programs and publish them.
 
 
 ## OUTPUT
-
-
+![alt text](<Screenshot 2025-10-16 100802.png>)
+![alt text](<Screenshot 2025-10-16 100918.png>)
 
 
 
